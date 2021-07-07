@@ -302,7 +302,6 @@ INSTALLED_APPS = [
     'virtualization',
     'django_rq',  # Must come after extras to allow overriding management commands
     'drf_yasg',
-    'django_replace_migrations',
 ]
 
 # Middleware
